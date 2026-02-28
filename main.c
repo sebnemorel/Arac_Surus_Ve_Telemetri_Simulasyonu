@@ -5,7 +5,7 @@
 
  int main(){
 
-    srand(time(NULL));
+     srand(time(NULL));
    
     int secim = 0;
     float batarya_sicakligi =0.0;
@@ -91,4 +91,5 @@
 
 
     return 0;
+
 }
